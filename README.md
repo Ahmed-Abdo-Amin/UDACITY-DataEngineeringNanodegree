@@ -3,8 +3,6 @@
 Where we assumed the role of a Data Engineer at a fabricated data streaming company called “Sparkify” as it scales its data engineering in both size and sophistication. we worked with simulated data of listening behavior, as well as a wealth of metadata related to songs and artists. we started working with a small amount of data, with low complexity, processed and stored on a single machine. By the end, we developed a sophisticated set of data pipelines to work with massive amounts of data processed and stored on the cloud. There are some tasks and five projects in the program. Below is a description of each.
 
 ## Module 1 : Data Modeling
-
-=======
 >>>>>>>![Data Modeling](./1.Module01-DataModeling/images/Data_Model.png)
 
 <hr/>

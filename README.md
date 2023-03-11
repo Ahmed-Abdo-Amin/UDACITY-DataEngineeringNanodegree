@@ -6,8 +6,11 @@ Where we assumed the role of a Data Engineer at a fabricated data streaming comp
 <<<<<<< HEAD
 
 =======
->>>>>>> a1ecb3e734a9bc979c998403a147e6eaeef482a2
+
 ![Data Modeling](./1.Module01-DataModeling/images/Data_Model.png)
+
+<hr/>
+
 ### Tasks:
 
 1. Lesson 2 Demo 1: Creating Normalized Tables
